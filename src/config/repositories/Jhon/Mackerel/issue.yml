@@ -1,0 +1,34 @@
+- number: 1
+  poster_id: 3
+  poster_name: guest1263
+  poster_email: guest1263@mail.com
+  title: Problem pushing to registry
+  content: "Hey, am new to this. Where do I find the docker credentials for the registry"
+  ref: ""
+  milestone: ""
+  state: open
+  is_locked: false
+  created: 2022-03-20T16:21:47Z
+  updated: 2022-03-20T16:21:47Z
+  closed: null
+  labels: []
+  reactions: []
+  assignees: []
+  foreignindex: 1
+- number: 2
+  poster_id: 4
+  poster_name: Bossman
+  poster_email: boss@man.com
+  title: Stupid configuration
+  content: "Who in the ever living [REDACTED] thought it was a good idea to mount the docker.socket to EVERYTHING!?!?!?!??!?!"
+  ref: ""
+  milestone: ""
+  state: open
+  is_locked: false
+  created: 2022-03-25T14:03:24Z
+  updated: 2022-03-25T14:03:24Z
+  closed: null
+  labels: []
+  reactions: []
+  assignees: []
+  foreignindex: 2

@@ -1,0 +1,4 @@
+htpasswd -cB htpasswd {username}
+# Then write whichever password you want
+
+# Copy the line from the htpasswd file into config/htpasswd

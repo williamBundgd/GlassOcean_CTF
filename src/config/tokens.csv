@@ -1,0 +1,2 @@
+username,name,tokenhash,salt,lasteight,scope
+gitadmin,pipeline,898edd2c669ca787283cbe22bbe6de5db15618c91b1f0aeaaf2bc98e70449234279e7024931f6ad640cc87a4aaf7b8bfcd91,CURqBY08w0,a25caf91,write:activitypub,write:admin,write:misc,write:notification,write:organization,write:package,write:issue,write:repository,write:user

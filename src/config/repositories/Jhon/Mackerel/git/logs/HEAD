@@ -1,0 +1,145 @@
+0000000000000000000000000000000000000000 b5bb0f9df283ce6c07dcc4cb29c5ecb87d53683d William Bundgaard <william.bundgd@gmail.com> 1738589834 +0100	commit (initial): init
+b5bb0f9df283ce6c07dcc4cb29c5ecb87d53683d 900f77221f37928232e036f3ce5c2aeb34f501c1 William Bundgaard <william.bundgd@gmail.com> 1738589891 +0100	commit (amend): init
+900f77221f37928232e036f3ce5c2aeb34f501c1 f8460d9d426f08e1c5cdcda678ffb6ee37a91d88 William Bundgaard <william.bundgd@gmail.com> 1738589938 +0100	commit (amend): init
+f8460d9d426f08e1c5cdcda678ffb6ee37a91d88 b973d4c3ef651b6ccdf717a94b2887aa678dbd3b William Bundgaard <william.bundgd@gmail.com> 1738589986 +0100	commit (amend): init
+b973d4c3ef651b6ccdf717a94b2887aa678dbd3b 0000000000000000000000000000000000000000 William Bundgaard <william.bundgd@gmail.com> 1738593346 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b973d4c3ef651b6ccdf717a94b2887aa678dbd3b William Bundgaard <william.bundgd@gmail.com> 1738593346 +0100	Branch: renamed refs/heads/master to refs/heads/main
+b973d4c3ef651b6ccdf717a94b2887aa678dbd3b 962106189638f3c90d2e6a628662e5176fdff742 William Bundgaard <william.bundgd@gmail.com> 1739362330 +0100	commit: Set up Dockerfile with custom executable, and build it in the pipeline
+962106189638f3c90d2e6a628662e5176fdff742 65071ab63546804f43576a4bd8953540ded64f06 William Bundgaard <william.bundgd@gmail.com> 1739362341 +0100	commit (amend): Set up Dockerfile with custom executable, and build it in the pipeline
+65071ab63546804f43576a4bd8953540ded64f06 8dedc73a1cea65af696f80f33c2adfc1caaa4039 William Bundgaard <william.bundgd@gmail.com> 1739362423 +0100	commit (amend): Set up Dockerfile with custom executable, and build it in the pipeline
+8dedc73a1cea65af696f80f33c2adfc1caaa4039 d50cdd1683e301f8a3f6210f4b9cce08bf1a15f4 William Bundgaard <william.bundgd@gmail.com> 1739362434 +0100	commit (amend): Set up Dockerfile with custom executable, and build it in the pipeline
+d50cdd1683e301f8a3f6210f4b9cce08bf1a15f4 e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1739362480 +0100	commit (amend): Set up Dockerfile with custom executable, and build it in the pipeline
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 310c382ede1159500139d766de98aa1867f91b99 William Bundgaard <william.bundgd@gmail.com> 1739362512 +0100	commit: Fixed typo
+310c382ede1159500139d766de98aa1867f91b99 29d22f06d23cb603cbc9cb4846a4dc532084dec9 William Bundgaard <william.bundgd@gmail.com> 1739362518 +0100	commit (amend): Fixed typo
+29d22f06d23cb603cbc9cb4846a4dc532084dec9 1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 William Bundgaard <william.bundgd@gmail.com> 1739362533 +0100	commit (amend): Fixed typo
+1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 William Bundgaard <william.bundgd@gmail.com> 1739362916 +0100	reset: moving to HEAD
+1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 10ae0c40b4dbfa16a2d7609382c5733ee515119e William Bundgaard <william.bundgd@gmail.com> 1739362924 +0100	commit: added .gitignore
+10ae0c40b4dbfa16a2d7609382c5733ee515119e 55820895498047723dbb8687f36bd102ce96f3e8 William Bundgaard <william.bundgd@gmail.com> 1739362930 +0100	commit (amend): added .gitignore
+55820895498047723dbb8687f36bd102ce96f3e8 905b113c5506aa5b1451be1a492e4239d28911b0 William Bundgaard <william.bundgd@gmail.com> 1739362962 +0100	commit (amend): added .gitignore
+905b113c5506aa5b1451be1a492e4239d28911b0 42278a8598e7757f828b899097db88175a5f79bc William Bundgaard <william.bundgd@gmail.com> 1739362979 +0100	commit: added test
+42278a8598e7757f828b899097db88175a5f79bc de983d2da70a35e248a9499aeb18f9a6ff473eea William Bundgaard <william.bundgd@gmail.com> 1739362986 +0100	commit (amend): added test
+de983d2da70a35e248a9499aeb18f9a6ff473eea f57c6d12aae8781d88e98d48b4aa42a65d345f1f William Bundgaard <william.bundgd@gmail.com> 1739363037 +0100	commit (amend): added test
+f57c6d12aae8781d88e98d48b4aa42a65d345f1f 3c32de70cdeb29df4a25cda31d4ee6e2f493e8c6 William Bundgaard <william.bundgd@gmail.com> 1739363271 +0100	commit: Replaces yaml with json
+3c32de70cdeb29df4a25cda31d4ee6e2f493e8c6 1ae75ba46b88b2624d57bd60b684830554fa42d0 William Bundgaard <william.bundgd@gmail.com> 1739363310 +0100	commit (amend): Replaces yaml with json
+1ae75ba46b88b2624d57bd60b684830554fa42d0 50cabe98912b6583ffb2714b891ce222892282c2 William Bundgaard <william.bundgd@gmail.com> 1739363488 +0100	commit (amend): Replaces yaml with json
+50cabe98912b6583ffb2714b891ce222892282c2 cda465c306423f7a838318dffe51d0a6018c0667 William Bundgaard <william.bundgd@gmail.com> 1739364919 +0100	commit: README
+cda465c306423f7a838318dffe51d0a6018c0667 e33a159fbcdd9786885fabc539d9eb5900b4af02 William Bundgaard <william.bundgd@gmail.com> 1739364926 +0100	commit (amend): README
+e33a159fbcdd9786885fabc539d9eb5900b4af02 f57c6d12aae8781d88e98d48b4aa42a65d345f1f William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (start): checkout f57c6d12aae8781d88e98d48b4aa42a65d345f1f
+f57c6d12aae8781d88e98d48b4aa42a65d345f1f e7db672637d5e963ba1e6ce52f11b3cd1cfba139 William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (pick): README
+e7db672637d5e963ba1e6ce52f11b3cd1cfba139 0513ae38796a681c4768b3fe30949027cffa076b William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (pick): Replaces yaml with json
+0513ae38796a681c4768b3fe30949027cffa076b 0513ae38796a681c4768b3fe30949027cffa076b William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (finish): returning to refs/heads/main
+0513ae38796a681c4768b3fe30949027cffa076b 905b113c5506aa5b1451be1a492e4239d28911b0 William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (start): checkout 905b113c5506aa5b1451be1a492e4239d28911b0
+905b113c5506aa5b1451be1a492e4239d28911b0 9744c9d5cb3398c81a8d6c3cbace24faa9e9c289 William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (pick): README
+9744c9d5cb3398c81a8d6c3cbace24faa9e9c289 2cdb19ef5ed01b55781d73eb193e921ce68c8728 William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (pick): added test
+2cdb19ef5ed01b55781d73eb193e921ce68c8728 a1f40bc1bdca0d446a4ecb7cc622411c66bf8a0c William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (pick): Replaces yaml with json
+a1f40bc1bdca0d446a4ecb7cc622411c66bf8a0c a1f40bc1bdca0d446a4ecb7cc622411c66bf8a0c William Bundgaard <william.bundgd@gmail.com> 1739364936 +0100	rebase -i (finish): returning to refs/heads/main
+a1f40bc1bdca0d446a4ecb7cc622411c66bf8a0c 1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (start): checkout 1f12ac11b2ecc71fcabfeb325fab8dcfccdae757
+1f12ac11b2ecc71fcabfeb325fab8dcfccdae757 adea551955862185294f8d56b82f5afd40e759c7 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): README
+adea551955862185294f8d56b82f5afd40e759c7 bfe2660c30f3bf8ed863f315599764d27e57acb0 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): added .gitignore
+bfe2660c30f3bf8ed863f315599764d27e57acb0 c96e4464e04c9617bcc118b40a4f3b6f4e78d0c2 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): added test
+c96e4464e04c9617bcc118b40a4f3b6f4e78d0c2 1da134f72271354c4f715f165eb8ea99f200dd64 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): Replaces yaml with json
+1da134f72271354c4f715f165eb8ea99f200dd64 1da134f72271354c4f715f165eb8ea99f200dd64 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (finish): returning to refs/heads/main
+1da134f72271354c4f715f165eb8ea99f200dd64 e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (start): checkout e6aca16bca630b33a3e87026234cb9dbfb2bd306
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 2f7e3726692d1c3ae55faef0a408ef63b7c28d2a William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): README
+2f7e3726692d1c3ae55faef0a408ef63b7c28d2a 2dd608a81630824ad53d9122016914ff1eca3175 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): Fixed typo
+2dd608a81630824ad53d9122016914ff1eca3175 fe1fb7b63116fedeff49426c0846a51f79f5fd25 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): added .gitignore
+fe1fb7b63116fedeff49426c0846a51f79f5fd25 dff40df6a7268bc2ba8f398b8b110bc9d226f02a William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): added test
+dff40df6a7268bc2ba8f398b8b110bc9d226f02a 84bfe42b12a11a4e7bc0e230f2e32e42e8bbe0d4 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (pick): Replaces yaml with json
+84bfe42b12a11a4e7bc0e230f2e32e42e8bbe0d4 84bfe42b12a11a4e7bc0e230f2e32e42e8bbe0d4 William Bundgaard <william.bundgd@gmail.com> 1739364937 +0100	rebase -i (finish): returning to refs/heads/main
+84bfe42b12a11a4e7bc0e230f2e32e42e8bbe0d4 e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (start): checkout e6aca16bca630b33a3e87026234cb9dbfb2bd306
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 1a694b4b12a9b7f5f4058e0e7dad86221a1c903a William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (pick): Fixed typo
+1a694b4b12a9b7f5f4058e0e7dad86221a1c903a d71e9ce8f8b509a30247ae9a6a8892c8d7e47606 William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (pick): README
+d71e9ce8f8b509a30247ae9a6a8892c8d7e47606 83aa2b31f6464bd72618ee4f59792f07fe7c104f William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (pick): added .gitignore
+83aa2b31f6464bd72618ee4f59792f07fe7c104f 8f5a62e526dfdbaa32748e2c15bcb61cf53de220 William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (pick): added test
+8f5a62e526dfdbaa32748e2c15bcb61cf53de220 eb940807d44af677fce245776762baf4a5a233d3 William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (pick): Replaces yaml with json
+eb940807d44af677fce245776762baf4a5a233d3 eb940807d44af677fce245776762baf4a5a233d3 William Bundgaard <william.bundgd@gmail.com> 1739364944 +0100	rebase -i (finish): returning to refs/heads/main
+eb940807d44af677fce245776762baf4a5a233d3 1a694b4b12a9b7f5f4058e0e7dad86221a1c903a William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (start): checkout 1a694b4b12a9b7f5f4058e0e7dad86221a1c903a
+1a694b4b12a9b7f5f4058e0e7dad86221a1c903a dfa1f006e75f93fa460b1556b05a81b513af5cd4 William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (pick): added .gitignore
+dfa1f006e75f93fa460b1556b05a81b513af5cd4 63cc9ae41d37ffb07da5dab4de0ea89fae195392 William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (pick): README
+63cc9ae41d37ffb07da5dab4de0ea89fae195392 4df43cf2d5fadf3bb1df0f3ca765a128f46f75c6 William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (pick): added test
+4df43cf2d5fadf3bb1df0f3ca765a128f46f75c6 d3278f69ed450586b02010d37c29619ba463507d William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (pick): Replaces yaml with json
+d3278f69ed450586b02010d37c29619ba463507d d3278f69ed450586b02010d37c29619ba463507d William Bundgaard <william.bundgd@gmail.com> 1739364945 +0100	rebase -i (finish): returning to refs/heads/main
+d3278f69ed450586b02010d37c29619ba463507d dfa1f006e75f93fa460b1556b05a81b513af5cd4 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (start): checkout dfa1f006e75f93fa460b1556b05a81b513af5cd4
+dfa1f006e75f93fa460b1556b05a81b513af5cd4 8cc7d5ae3a2e19119f0205fdde1847e93d94b244 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): added test
+8cc7d5ae3a2e19119f0205fdde1847e93d94b244 bf2c5b9ba149935b9b479acda5883d47584433ab William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): README
+bf2c5b9ba149935b9b479acda5883d47584433ab 995a1352025546b56a24faefd051b996a37cbb4f William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): Replaces yaml with json
+995a1352025546b56a24faefd051b996a37cbb4f 995a1352025546b56a24faefd051b996a37cbb4f William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (finish): returning to refs/heads/main
+995a1352025546b56a24faefd051b996a37cbb4f dfa1f006e75f93fa460b1556b05a81b513af5cd4 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (start): checkout dfa1f006e75f93fa460b1556b05a81b513af5cd4
+dfa1f006e75f93fa460b1556b05a81b513af5cd4 cbc8f01d8110268685999cb830732633e8536ae8 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): README
+cbc8f01d8110268685999cb830732633e8536ae8 984fd8d51771d0ca142574b8222fbbec7752226c William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): added test
+984fd8d51771d0ca142574b8222fbbec7752226c faea7be5ad2a2e09937ff5662732fec99370edf6 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (pick): Replaces yaml with json
+faea7be5ad2a2e09937ff5662732fec99370edf6 faea7be5ad2a2e09937ff5662732fec99370edf6 William Bundgaard <william.bundgd@gmail.com> 1739364946 +0100	rebase -i (finish): returning to refs/heads/main
+faea7be5ad2a2e09937ff5662732fec99370edf6 dfa1f006e75f93fa460b1556b05a81b513af5cd4 William Bundgaard <william.bundgd@gmail.com> 1739364948 +0100	rebase -i (start): checkout dfa1f006e75f93fa460b1556b05a81b513af5cd4
+dfa1f006e75f93fa460b1556b05a81b513af5cd4 bbe36e66973072d1f30dd1c7746480c35da0370a William Bundgaard <william.bundgd@gmail.com> 1739364948 +0100	rebase -i (pick): added test
+bbe36e66973072d1f30dd1c7746480c35da0370a bb908c2480234d442e51583e4c781895ffe8a47f William Bundgaard <william.bundgd@gmail.com> 1739364948 +0100	rebase -i (pick): README
+bb908c2480234d442e51583e4c781895ffe8a47f 8a7213818817cb747b056c4459c16fb96e0657a4 William Bundgaard <william.bundgd@gmail.com> 1739364948 +0100	rebase -i (pick): Replaces yaml with json
+8a7213818817cb747b056c4459c16fb96e0657a4 8a7213818817cb747b056c4459c16fb96e0657a4 William Bundgaard <william.bundgd@gmail.com> 1739364948 +0100	rebase -i (finish): returning to refs/heads/main
+8a7213818817cb747b056c4459c16fb96e0657a4 bbe36e66973072d1f30dd1c7746480c35da0370a William Bundgaard <william.bundgd@gmail.com> 1739364952 +0100	rebase -i (start): checkout bbe36e66973072d1f30dd1c7746480c35da0370a
+bbe36e66973072d1f30dd1c7746480c35da0370a f234308137d444d9bd2df9d7c2886a4d0582d0bf William Bundgaard <william.bundgd@gmail.com> 1739364952 +0100	rebase -i (pick): Replaces yaml with json
+f234308137d444d9bd2df9d7c2886a4d0582d0bf 3ae3478e84806f8c43db57051760c4d65bd84b81 William Bundgaard <william.bundgd@gmail.com> 1739364952 +0100	rebase -i (pick): README
+3ae3478e84806f8c43db57051760c4d65bd84b81 3ae3478e84806f8c43db57051760c4d65bd84b81 William Bundgaard <william.bundgd@gmail.com> 1739364952 +0100	rebase -i (finish): returning to refs/heads/main
+3ae3478e84806f8c43db57051760c4d65bd84b81 a18087ba52fd7d2e4873a4d718c2c1b241f70db5 William Bundgaard <william.bundgd@gmail.com> 1739365006 +0100	commit (amend): README
+a18087ba52fd7d2e4873a4d718c2c1b241f70db5 cffde6c3319dae70ad1456f4698fabd3c06ce8fb William Bundgaard <william.bundgd@gmail.com> 1739966958 +0100	commit: Adds output and pretty formatting
+cffde6c3319dae70ad1456f4698fabd3c06ce8fb f1165ad6830b1991dcabce9d59b44d6f2747ae54 William Bundgaard <william.bundgd@gmail.com> 1739966967 +0100	commit (amend): Adds output and pretty formatting
+f1165ad6830b1991dcabce9d59b44d6f2747ae54 564abf2062609f9c5b0ab7473e9ca1e2003b8aea William Bundgaard <william.bundgd@gmail.com> 1739966995 +0100	commit (amend): Adds output and pretty formatting
+564abf2062609f9c5b0ab7473e9ca1e2003b8aea 81e90bb3b87f0dc73a0d3ea556c4917427ed30d6 William Bundgaard <william.bundgd@gmail.com> 1739967012 +0100	commit (amend): Adds output and pretty formatting
+81e90bb3b87f0dc73a0d3ea556c4917427ed30d6 ec274683743af56771158d0399a8d3697d5c8a76 William Bundgaard <william.bundgd@gmail.com> 1740056798 +0100	commit: fixed issue with test
+ec274683743af56771158d0399a8d3697d5c8a76 ef8d5a2176796ebf9d9f3059902891e650b0dcf7 William Bundgaard <william.bundgd@gmail.com> 1740056804 +0100	commit (amend): fixed issue with test
+ef8d5a2176796ebf9d9f3059902891e650b0dcf7 867bb272602f9595d59fd1ef5f3b4d9b1495e3be William Bundgaard <william.bundgd@gmail.com> 1740056815 +0100	commit (amend): fixed issue with test
+867bb272602f9595d59fd1ef5f3b4d9b1495e3be b3c3a56002a2561b6bc4c9f845718283107c344f William Bundgaard <william.bundgd@gmail.com> 1740056862 +0100	commit (amend): fixed issue with test
+b3c3a56002a2561b6bc4c9f845718283107c344f c35e5eb0f94a86c77a975ed4c8d141c6ad467357 William Bundgaard <william.bundgd@gmail.com> 1740058863 +0100	commit: Test does not work. Removing test
+c35e5eb0f94a86c77a975ed4c8d141c6ad467357 cc6a20d4d47f696eb5b3f1e8da0dc2ac7c6976b9 William Bundgaard <william.bundgd@gmail.com> 1740058869 +0100	commit (amend): Test does not work. Removing test
+cc6a20d4d47f696eb5b3f1e8da0dc2ac7c6976b9 fbbd2b37f50747e7d7320419a8bca725a0c318f3 William Bundgaard <william.bundgd@gmail.com> 1740058887 +0100	commit (amend): Test does not work. Removing test
+fbbd2b37f50747e7d7320419a8bca725a0c318f3 f34283290abfc7cb83271f33db231a5361b49dc4 William Bundgaard <william.bundgd@gmail.com> 1742243217 +0100	commit: Use default config in prod
+f34283290abfc7cb83271f33db231a5361b49dc4 eb73034eb5fb7cd9e74fd226d136c07bf104ddc5 William Bundgaard <william.bundgd@gmail.com> 1742243226 +0100	commit (amend): Use default config in prod
+eb73034eb5fb7cd9e74fd226d136c07bf104ddc5 611da3cbd2bb8ad29df3bec8699554240d471850 William Bundgaard <william.bundgd@gmail.com> 1742243485 +0100	commit (amend): Use default config in prod
+611da3cbd2bb8ad29df3bec8699554240d471850 b973d4c3ef651b6ccdf717a94b2887aa678dbd3b William Bundgaard <william.bundgd@gmail.com> 1746016243 +0200	rebase -i (start): checkout b973d4c3ef651b6ccdf717a94b2887aa678dbd3b
+b973d4c3ef651b6ccdf717a94b2887aa678dbd3b e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1746016243 +0200	rebase -i: fast-forward
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 307629e278d853444b8fbeb5be8ee2b37c094eb3 William Bundgaard <william.bundgd@gmail.com> 1746016290 +0200	commit: fff
+307629e278d853444b8fbeb5be8ee2b37c094eb3 611da3cbd2bb8ad29df3bec8699554240d471850 William Bundgaard <william.bundgd@gmail.com> 1746016399 +0200	checkout: moving from 307629e278d853444b8fbeb5be8ee2b37c094eb3 to 611da3cbd2bb8ad29df3bec8699554240d471850
+611da3cbd2bb8ad29df3bec8699554240d471850 75286ba7c97e70e9095209eddb7ad82015224a1c William Bundgaard <william.bundgd@gmail.com> 1746016556 +0200	rebase -i (continue): added test
+75286ba7c97e70e9095209eddb7ad82015224a1c a9b927c75ba8cb1f0ec1a4415cd9e4555ebca8ad William Bundgaard <william.bundgd@gmail.com> 1746016556 +0200	rebase -i (pick): Replaces yaml with json
+a9b927c75ba8cb1f0ec1a4415cd9e4555ebca8ad 55f7e2baad8051802c6738a3ee3da0467800e727 William Bundgaard <william.bundgd@gmail.com> 1746016586 +0200	rebase -i (pick): Test does not work. Removing test
+55f7e2baad8051802c6738a3ee3da0467800e727 55f7e2baad8051802c6738a3ee3da0467800e727 William Bundgaard <william.bundgd@gmail.com> 1746016586 +0200	rebase -i (finish): returning to refs/heads/main
+55f7e2baad8051802c6738a3ee3da0467800e727 b973d4c3ef651b6ccdf717a94b2887aa678dbd3b William Bundgaard <william.bundgd@gmail.com> 1746016648 +0200	rebase -i (start): checkout b973d4c3ef651b6ccdf717a94b2887aa678dbd3b
+b973d4c3ef651b6ccdf717a94b2887aa678dbd3b e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1746016648 +0200	rebase -i: fast-forward
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 59067f5a08708987a20fa0eac6d5dd85a947a6bc William Bundgaard <william.bundgd@gmail.com> 1746016669 +0200	commit: fff
+59067f5a08708987a20fa0eac6d5dd85a947a6bc b237a1d585544bc5ac98c47839dd8ca845060c03 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Fixed typo
+b237a1d585544bc5ac98c47839dd8ca845060c03 01d237b24df7edda37fef70d4c66f10da66bef80 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): added .gitignore
+01d237b24df7edda37fef70d4c66f10da66bef80 c25d8d8d7139dc900ea5359ff6301a2fd2a2a11c William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): added test
+c25d8d8d7139dc900ea5359ff6301a2fd2a2a11c 0499e7c2fcf0c89836b1c2ead16bde2db18bbdbd William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Replaces yaml with json
+0499e7c2fcf0c89836b1c2ead16bde2db18bbdbd 00363bf44d5ddaf0e4eb90b3353a033c3b8223d7 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): README
+00363bf44d5ddaf0e4eb90b3353a033c3b8223d7 ec5e4e411c0ea8baf85cfb037c4e8a8352d0e217 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Adds output and pretty formatting
+ec5e4e411c0ea8baf85cfb037c4e8a8352d0e217 77a78ad68c1a8f2c46e4ff6ef4e09762d8e224eb William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): fixed issue with test
+77a78ad68c1a8f2c46e4ff6ef4e09762d8e224eb 54ebb4c2bc304bcf56784a0d0ea65668ae7249f3 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Test does not work. Removing test
+54ebb4c2bc304bcf56784a0d0ea65668ae7249f3 383be49e65d125035fd8b21db6218ae9f5db35b5 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Use default config in prod
+383be49e65d125035fd8b21db6218ae9f5db35b5 09d8989de991fd868204f3378db8d2700d698317 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): added test
+09d8989de991fd868204f3378db8d2700d698317 1540dab9958697d4d06db7ac183a8ed111236a11 William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Replaces yaml with json
+1540dab9958697d4d06db7ac183a8ed111236a11 144c548834c56636126f708830fd49ab0fd6abef William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (pick): Test does not work. Removing test
+144c548834c56636126f708830fd49ab0fd6abef 144c548834c56636126f708830fd49ab0fd6abef William Bundgaard <william.bundgd@gmail.com> 1746016679 +0200	rebase -i (finish): returning to refs/heads/main
+144c548834c56636126f708830fd49ab0fd6abef e6aca16bca630b33a3e87026234cb9dbfb2bd306 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (start): checkout b973d4c3ef651b6ccdf717a94b2887aa678dbd3b
+e6aca16bca630b33a3e87026234cb9dbfb2bd306 a8fddef89f7af302832cf8f1fa26c91986af70d4 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (squash): Set up Dockerfile with custom executable, and build it in the pipeline
+a8fddef89f7af302832cf8f1fa26c91986af70d4 8a51508a82743e36e7506a9a1083f939827e54cd William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Fixed typo
+8a51508a82743e36e7506a9a1083f939827e54cd d484cf5f559f486f543fb47a3e515fba4484a894 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): added .gitignore
+d484cf5f559f486f543fb47a3e515fba4484a894 32a44c00a78f9a97ecbaa0b556fd8215ed2c317e William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): added test
+32a44c00a78f9a97ecbaa0b556fd8215ed2c317e 407f1849110243b954437edc11a7995e13315946 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Replaces yaml with json
+407f1849110243b954437edc11a7995e13315946 cf750bf8037e62c76a4b2fa1ef7efa2b5ad36248 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): README
+cf750bf8037e62c76a4b2fa1ef7efa2b5ad36248 4b72f04f525a3ab4d1164881fe16d2476109b6b8 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Adds output and pretty formatting
+4b72f04f525a3ab4d1164881fe16d2476109b6b8 2a684f7efc2fdb02e9e91337b0149bae009888e8 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): fixed issue with test
+2a684f7efc2fdb02e9e91337b0149bae009888e8 c091fd5c5edb65c83ee95edd8f1239e3229f05c3 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Test does not work. Removing test
+c091fd5c5edb65c83ee95edd8f1239e3229f05c3 971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Use default config in prod
+971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d 8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): added test
+8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 8354403ccd749b0b876f4b888574e03295e30983 William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Replaces yaml with json
+8354403ccd749b0b876f4b888574e03295e30983 7d21ba04065cc64a2beca5a108e90f161448156f William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (pick): Test does not work. Removing test
+7d21ba04065cc64a2beca5a108e90f161448156f 7d21ba04065cc64a2beca5a108e90f161448156f William Bundgaard <william.bundgd@gmail.com> 1746016714 +0200	rebase -i (finish): returning to refs/heads/main
+7d21ba04065cc64a2beca5a108e90f161448156f 971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d William Bundgaard <william.bundgd@gmail.com> 1746016753 +0200	rebase -i (start): checkout 971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d
+971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d 8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 William Bundgaard <william.bundgd@gmail.com> 1746016753 +0200	rebase -i: fast-forward
+8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 565ae24ebc92a31f24a7631230dca10b073d688a William Bundgaard <william.bundgd@gmail.com> 1746016802 +0200	commit: vff
+565ae24ebc92a31f24a7631230dca10b073d688a 1c8f6f002058e6befb0f9822f0bc59f4cfd02547 William Bundgaard <william.bundgd@gmail.com> 1746016806 +0200	rebase -i (pick): Replaces yaml with json
+1c8f6f002058e6befb0f9822f0bc59f4cfd02547 3c9f7b8b63e1474c47b5eb7b2bde2028c476d481 William Bundgaard <william.bundgd@gmail.com> 1746016816 +0200	rebase -i (continue): Test does not work. Removing test
+3c9f7b8b63e1474c47b5eb7b2bde2028c476d481 3c9f7b8b63e1474c47b5eb7b2bde2028c476d481 William Bundgaard <william.bundgd@gmail.com> 1746016816 +0200	rebase -i (finish): returning to refs/heads/main
+3c9f7b8b63e1474c47b5eb7b2bde2028c476d481 8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 William Bundgaard <william.bundgd@gmail.com> 1746016828 +0200	rebase -i (start): checkout 971c2fa3ecf6ae1c65a2185d9e4f2b4bdd349f4d
+8a9cfc8dd76d989437fa42a76cdf5909ba2f0f06 3b7122bae285bf4491f13fefdd4f2861f1e7a0c5 William Bundgaard <william.bundgd@gmail.com> 1746016828 +0200	rebase -i (squash): added test
+3b7122bae285bf4491f13fefdd4f2861f1e7a0c5 57ad22966f397960aaf4372685aa7d6f184bab42 William Bundgaard <william.bundgd@gmail.com> 1746016828 +0200	rebase -i (pick): Replaces yaml with json
+57ad22966f397960aaf4372685aa7d6f184bab42 c629b9663152226e9464fd2a36099fe058e5aa7c William Bundgaard <william.bundgd@gmail.com> 1746016828 +0200	rebase -i (pick): Test does not work. Removing test
+c629b9663152226e9464fd2a36099fe058e5aa7c c629b9663152226e9464fd2a36099fe058e5aa7c William Bundgaard <william.bundgd@gmail.com> 1746016828 +0200	rebase -i (finish): returning to refs/heads/main

@@ -1,0 +1,4 @@
+FROM nginx:1.21.3-alpine
+COPY proxy/default.conf /etc/nginx/conf.d/default.conf
+COPY proxy/ssl /etc/nginx/ssl
+COPY proxy/includes/ /etc/nginx/includes/

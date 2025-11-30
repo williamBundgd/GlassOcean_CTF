@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 22651ffcd1570108afccdffbb7db03cd020b8548 William Bundgaard <william.bundgd@gmail.com> 1738590582 +0100	commit (initial): init
+22651ffcd1570108afccdffbb7db03cd020b8548 fa040fdd9fae7e0c507184b84b3e9cca894f14e0 William Bundgaard <william.bundgd@gmail.com> 1738590636 +0100	commit (amend): init
+fa040fdd9fae7e0c507184b84b3e9cca894f14e0 a9c9b02217a88bc95155bfcb9b5561899668dbc3 William Bundgaard <william.bundgd@gmail.com> 1738590682 +0100	commit (amend): init
+a9c9b02217a88bc95155bfcb9b5561899668dbc3 a9c9b02217a88bc95155bfcb9b5561899668dbc3 William Bundgaard <william.bundgd@gmail.com> 1738593375 +0100	Branch: renamed refs/heads/master to refs/heads/main
+a9c9b02217a88bc95155bfcb9b5561899668dbc3 798fbade84c63792cb795ed74d75b51d73428a7d William Bundgaard <william.bundgd@gmail.com> 1739364376 +0100	commit: added .gitignore
+798fbade84c63792cb795ed74d75b51d73428a7d 24c5e413da15b9235d1cabd5dee2c5a2fd5344d2 William Bundgaard <william.bundgd@gmail.com> 1739364382 +0100	commit (amend): added .gitignore
+24c5e413da15b9235d1cabd5dee2c5a2fd5344d2 900db465142a15baf2a3f029bd1690108261da87 William Bundgaard <william.bundgd@gmail.com> 1739364453 +0100	commit (amend): added .gitignore
+900db465142a15baf2a3f029bd1690108261da87 986dc501dae7a22f99157b7df9db644a1f823b44 William Bundgaard <william.bundgd@gmail.com> 1739364485 +0100	commit: log processing
+986dc501dae7a22f99157b7df9db644a1f823b44 ab88c232ccb580f5cf06efd78baf5259aa04230e William Bundgaard <william.bundgd@gmail.com> 1739364489 +0100	commit (amend): log processing
+ab88c232ccb580f5cf06efd78baf5259aa04230e 51c7f9bb8a79e4547080622bee42fb2b6019651a William Bundgaard <william.bundgd@gmail.com> 1739364519 +0100	commit (amend): log processing
+51c7f9bb8a79e4547080622bee42fb2b6019651a 9b33716fc2702c9f811a62d81333ae0fff4c67e1 William Bundgaard <william.bundgd@gmail.com> 1739365391 +0100	commit: always pull
+9b33716fc2702c9f811a62d81333ae0fff4c67e1 22a66ea5294f40a2742ef4ade27efae6b3e5b707 William Bundgaard <william.bundgd@gmail.com> 1739365427 +0100	commit (amend): always pull
+22a66ea5294f40a2742ef4ade27efae6b3e5b707 d35a8427adb2326d23da9d27b376e499dc50151e William Bundgaard <william.bundgd@gmail.com> 1739365480 +0100	commit (amend): always pull
+d35a8427adb2326d23da9d27b376e499dc50151e 8e63af0d036dc0b43d43efca109f4eaeb706ada8 William Bundgaard <william.bundgd@gmail.com> 1739965264 +0100	commit: sample logs
+8e63af0d036dc0b43d43efca109f4eaeb706ada8 9301c5a0a76cb4ecb04dc3838addd21604f67375 William Bundgaard <william.bundgd@gmail.com> 1739965275 +0100	commit (amend): sample logs
+9301c5a0a76cb4ecb04dc3838addd21604f67375 6de9dd7fc256e51d64c53db5aed72ff5d4dabc4e William Bundgaard <william.bundgd@gmail.com> 1739965290 +0100	commit (amend): sample logs
+6de9dd7fc256e51d64c53db5aed72ff5d4dabc4e b1ce3e3c8d1d1038b06d9819d3c2ff1a48e0e330 William Bundgaard <william.bundgd@gmail.com> 1739965338 +0100	commit (amend): sample logs
+b1ce3e3c8d1d1038b06d9819d3c2ff1a48e0e330 a1cdb7a7942549d837b41240f0a988486481b5f6 William Bundgaard <william.bundgd@gmail.com> 1739965373 +0100	commit: Testing better log sampeling
+a1cdb7a7942549d837b41240f0a988486481b5f6 f4775fd863e52d9d4a62837867b69aeba192cd5b William Bundgaard <william.bundgd@gmail.com> 1739965379 +0100	commit (amend): Testing better log sampeling
+f4775fd863e52d9d4a62837867b69aeba192cd5b e5a0ff01dc6bda03963e8084c6df7d3581dcfaef William Bundgaard <william.bundgd@gmail.com> 1739965388 +0100	commit (amend): Testing better log sampeling
+e5a0ff01dc6bda03963e8084c6df7d3581dcfaef db6013878ad04ab14e1858293c2f76637ed43ac4 William Bundgaard <william.bundgd@gmail.com> 1739966155 +0100	commit: Better logging tests
+db6013878ad04ab14e1858293c2f76637ed43ac4 423565a43c9a9c123a4439fff2cfd80c9e5db658 William Bundgaard <william.bundgd@gmail.com> 1739966162 +0100	commit (amend): Better logging tests
+423565a43c9a9c123a4439fff2cfd80c9e5db658 d814989d8b365e1fb048149731c2fbb5b3661830 William Bundgaard <william.bundgd@gmail.com> 1739966196 +0100	commit (amend): Better logging tests
+d814989d8b365e1fb048149731c2fbb5b3661830 61e88b52717ba4848f0adad25e1f950a561a25b3 William Bundgaard <william.bundgd@gmail.com> 1739967067 +0100	commit: pretty logs
+61e88b52717ba4848f0adad25e1f950a561a25b3 045d646839e80aacc2997b12ceb5e65315950234 William Bundgaard <william.bundgd@gmail.com> 1739967078 +0100	commit (amend): pretty logs
+045d646839e80aacc2997b12ceb5e65315950234 bae1644364b3a9e78e68f7d66578d7f92b36b377 William Bundgaard <william.bundgd@gmail.com> 1739967122 +0100	commit (amend): pretty logs
+bae1644364b3a9e78e68f7d66578d7f92b36b377 f1b6dad6d58505b32198c95b87ac24b60ce593a9 William Bundgaard <william.bundgd@gmail.com> 1746015826 +0200	commit: added image_pull_secret for getting images from local repo
+f1b6dad6d58505b32198c95b87ac24b60ce593a9 0914b99e3ab94dfa3d7d616bcf564747ffbd6689 William Bundgaard <william.bundgd@gmail.com> 1746015838 +0200	commit (amend): added image_pull_secret for getting images from local repo
+0914b99e3ab94dfa3d7d616bcf564747ffbd6689 5c6365d84b5601baef30123a071dc057141e8c5c William Bundgaard <william.bundgd@gmail.com> 1746015896 +0200	commit (amend): added image_pull_secret for getting images from local repo
+5c6365d84b5601baef30123a071dc057141e8c5c 88fa138c6ca0c40b9e0c4405a11d6c508c3e917c William Bundgaard <william.bundgd@gmail.com> 1746015934 +0200	commit (amend): added image_pull_secret for getting images from local repo

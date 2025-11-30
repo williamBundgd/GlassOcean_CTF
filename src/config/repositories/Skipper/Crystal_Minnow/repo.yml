@@ -1,0 +1,15 @@
+assets: true
+clone_addr: http://localhost:3000/Skipper/Crystal_Minnow
+comments: true
+description: ""
+is_private: false
+issues: true
+labels: true
+milestones: true
+name: Crystal_Minnow
+original_url: https://git.glassocean.hkn/Skipper/Crystal_Minnow
+owner: Skipper
+pulls: true
+releases: true
+service_type: 3
+wiki: true

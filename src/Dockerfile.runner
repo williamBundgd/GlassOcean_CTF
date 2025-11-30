@@ -1,0 +1,32 @@
+FROM alpine:3.21.2
+RUN apk add qemu-system-x86_64 xorriso --no-cache
+ADD base-runner/alpine.tar.gz /
+
+COPY registry/config/config.json /root/.docker/config.json
+ENV DRONE_DOCKER_CONFIG=/root/.docker/config.json
+
+WORKDIR /tmp/preconfig
+COPY proxy/ssl/glassoceanCA.pem .
+COPY base-runner/preconfig.sh init.sh
+WORKDIR /
+RUN mkisofs -o /preconfig.iso /tmp/preconfig
+RUN qemu-system-x86_64 \
+    -m 512M \
+    -nic user \
+    -hda /alpine.qcow2 \
+    -cdrom /preconfig.iso \
+    -nographic 
+
+WORKDIR /tmp/config
+COPY base-runner/init.sh .
+WORKDIR /
+RUN mkisofs -o /config.iso /tmp/config
+CMD qemu-system-x86_64 \
+    -m 512M \
+    -nic user \
+    -hda /alpine.qcow2 \
+    -cdrom /config.iso \
+    #-vnc :0 \
+    -smp 1 \
+    -daemonize \
+    && sleep infinity 

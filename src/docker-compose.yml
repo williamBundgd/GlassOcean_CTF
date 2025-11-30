@@ -1,0 +1,112 @@
+version: '3.6'
+
+services:
+  proxy:
+    build: 
+      context: .
+      dockerfile: Dockerfile.proxy
+    image: proxy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      cicd_net:
+        aliases:
+          - git.glassocean.hkn
+          - drone.glassocean.hkn
+          - registry.glassocean.hkn
+
+  gitea:
+    build: 
+      context: .
+      dockerfile: Dockerfile.gitea
+    image: base-gitea
+    restart: unless-stopped
+    environment:
+      #- GLOBAL_TOKEN=true
+      - DRONE_GITEA_CLIENT_ID=45eaef2d-a248-4a16-b56e-cc0b698d26cd
+      - DRONE_GITEA_CLIENT_SECRET_HASH=$$2a$$10$$TIFYfmOqwN1p6tcrRCRR6OCPXLcBqVE1LabQSz26iNk5pKgqFh376
+      - DRONE_GITEA_URL=https://drone.glassocean.hkn/login
+      - DRONE_SERVER_HOST=drone.glassocean.hkn
+      - MAIL_DOMAIN=glassocean.hkn
+      - ADMIN_PASSWORD=f99324a6d3d805268c94ce914a5eca20
+    #ports:
+    #  - "22:22"
+    networks:
+      cicd_net:
+        aliases:
+          #- git.glassocean.hkn
+          - internalgit.glassocean.hkn
+    # volumes:
+    #   - token-volume:/tokens
+
+  drone:
+    build: 
+      context: .
+      dockerfile: Dockerfile.drone
+    image: base-drone
+    restart: unless-stopped
+    environment:
+      # https://docs.drone.io/server/provider/gitea/
+      - DRONE_GITEA_SERVER=https://git.glassocean.hkn/
+      - DRONE_GIT_ALWAYS_AUTH=false
+      - DRONE_RPC_SECRET=whZfjQQpAyPISaIy5pm0axVsF9Z0oXeA
+      - DRONE_SERVER_PROTO=https
+      - DRONE_SERVER_HOST=drone.glassocean.hkn
+      - DRONE_TLS_AUTOCERT=false
+      - DRONE_GITEA_CLIENT_ID=45eaef2d-a248-4a16-b56e-cc0b698d26cd
+      - DRONE_GITEA_CLIENT_SECRET=gto_161nrqo4z8bjxcauagzhqdzzu5639395gdo3zkabap7vcp33ncqf
+      - COMPANY_NAME=glassocean
+      - MAIL_DOMAIN=glassocean.hkn
+      #DRONE_REPO_BRANCH
+
+  #  ports:
+  #    - "3001:80"
+  #    - "9001:9000"
+    networks:
+      cicd_net:
+        aliases:
+          #- drone.glassocean.hkn
+          - internaldrone.glassocean.hkn
+
+  drone-runner:
+    build: 
+      context: .
+      dockerfile: Dockerfile.runner
+    restart: unless-stopped
+    depends_on:
+      - drone
+      # - registry
+    networks:
+      cicd_net:
+        aliases:
+          - internalrunner.glassocean.hkn
+  
+  registry:
+    build:
+      context: .
+      dockerfile: Dockerfile.registry
+    image: registry
+    restart: unless-stopped
+    environment:
+      - REGISTRY_AUTH=htpasswd
+      - REGISTRY_AUTH_HTPASSWD_REALM=Registry Realm
+      - REGISTRY_AUTH_HTPASSWD_PATH=/auth/htpasswd
+      - REGISTRY_STORAGE_DELETE_ENABLED=true
+      - REGISTRY_HTTPS_ADDR=registry.glassocean.hkn:443
+    ports:
+      - "5000:5000"
+    networks:
+      cicd_net:
+        aliases:
+          - internalregistry.glassocean.hkn
+    # volumes:
+    #   - /var/run/docker.sock:/var/run/docker.sock:rw
+
+
+networks:
+  cicd_net:
+    name: cicd_net
+  prod_net:
+    name: prod_net

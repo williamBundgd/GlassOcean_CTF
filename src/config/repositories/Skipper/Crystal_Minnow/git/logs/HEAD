@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 031f76b11216a5d3b17ca21dc3956e31cf84ab96 William Bundgaard <william.bundgd@gmail.com> 1738590720 +0100	commit (initial): init
+031f76b11216a5d3b17ca21dc3956e31cf84ab96 8a87a7813a55be3694ac8d24d6181c8c480a9d55 William Bundgaard <william.bundgd@gmail.com> 1738590781 +0100	commit (amend): init
+8a87a7813a55be3694ac8d24d6181c8c480a9d55 45f15d88c087011d137e7e100ea0dc708e45e680 William Bundgaard <william.bundgd@gmail.com> 1738590812 +0100	commit (amend): init
+45f15d88c087011d137e7e100ea0dc708e45e680 0000000000000000000000000000000000000000 William Bundgaard <william.bundgd@gmail.com> 1738593364 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 45f15d88c087011d137e7e100ea0dc708e45e680 William Bundgaard <william.bundgd@gmail.com> 1738593364 +0100	Branch: renamed refs/heads/master to refs/heads/main
+45f15d88c087011d137e7e100ea0dc708e45e680 3cef9440a4decce8962234a3a0add91d511ad900 William Bundgaard <william.bundgd@gmail.com> 1746017522 +0200	commit: Added lots of stuff. Can you find the conainer?
+3cef9440a4decce8962234a3a0add91d511ad900 3f889daeb871205a4e1a5beafc011669879fcad4 William Bundgaard <william.bundgd@gmail.com> 1746017530 +0200	commit (amend): Added lots of stuff. Can you find the conainer?
+3f889daeb871205a4e1a5beafc011669879fcad4 9a27d6c9e784ae2375ddabbf31bdbfaa423258a4 William Bundgaard <william.bundgd@gmail.com> 1746017541 +0200	commit (amend): Added lots of stuff. Can you find the conainer?
+9a27d6c9e784ae2375ddabbf31bdbfaa423258a4 6be0eef8dad4f2ed741db8e71341e5b7d520d021 William Bundgaard <william.bundgd@gmail.com> 1746017578 +0200	commit (amend): Added lots of stuff. Can you find the conainer?

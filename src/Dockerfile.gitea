@@ -1,0 +1,21 @@
+FROM gitea/gitea:1.21.6
+RUN apk add openssl 
+
+ADD base-gitea/gitea.tar.gz /data
+COPY base-gitea/private.pem /data/gitea/jwt/private.pem
+
+COPY base-gitea/preconfigure.sh /tmp/preconfigure.sh
+RUN chmod +x /tmp/preconfigure.sh
+COPY base-gitea/postconfigure.sh /tmp/postconfigure.sh
+RUN chmod +x /tmp/postconfigure.sh
+
+COPY proxy/ssl/glassoceanCA.pem /tmp/ca.pem
+RUN cat /tmp/ca.pem >> /etc/ssl/certs/ca-certificates.crt
+
+COPY config /config
+COPY app.ini /data/gitea/conf/app.ini
+
+RUN touch /data/fresh_install
+
+ENTRYPOINT ["/tmp/preconfigure.sh"]
+CMD ["/bin/s6-svscan", "/etc/s6"]

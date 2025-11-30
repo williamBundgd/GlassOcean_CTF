@@ -1,0 +1,18 @@
+openssl genrsa -out glassocean.key 2048
+openssl req -new -key glassocean.key -subj '/C=DK/ST=Denmark/O=SDU/CN=glassocean.hkn' -out glassocean.csr
+openssl x509 -signkey glassocean.key -in glassocean.csr -req -days 365 -out glassocean.crt
+
+openssl genrsa -out glassoceanCA.key 2048
+openssl req -x509 -sha256 -days 1825 -key glassoceanCA.key -subj '/C=DK/ST=Denmark/O=SDU/CN=glassocean.hkn' -out glassoceanCA.crt
+openssl x509 -req -CA glassoceanCA.crt -CAkey glassoceanCA.key -in glassocean.csr -out glassocean.crt -days 365 -CAcreateserial -extfile extra.ext
+
+openssl x509 -text -noout -in glassocean.crt
+
+
+openssl x509 -in glassocean.crt -out glassocean.pem -outform PEM
+openssl x509 -in glassoceanCA.crt -out glassoceanCA.pem -outform PEM
+
+cat glassoceanCA.pem >> glassocean.pem
+
+Remember to add it to the computers ca-certificate folder and install it
+Also restart the PC

@@ -1,0 +1,15 @@
+assets: true
+clone_addr: http://localhost:3000/Flemming/Barracuda
+comments: true
+description: ""
+is_private: false
+issues: true
+labels: true
+milestones: true
+name: Barracuda
+original_url: https://git.glassocean.hkn/Flemming/Barracuda
+owner: Flemming
+pulls: true
+releases: true
+service_type: 3
+wiki: true
